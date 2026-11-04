@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="security_settings_face_enroll_dialog_ok">Ceart ma-thà</string>
+    <string name="security_settings_face_enroll_done">Deiseil</string>
+    <string name="security_settings_face_enroll_education_accessibility_dialog_negative">Air ais</string>
+    <string name="security_settings_face_enroll_education_accessibility_dialog_positive">Lean air an t-suidheachadh</string>
+    <string name="security_settings_face_enroll_education_start">Tòisich</string>
+    <string name="security_settings_face_enroll_education_title_unlock_disabled">Cleachd d’ aonan a chùm dearbhaidh</string>
+    <string name="security_settings_face_enroll_error_dialog_title">Cha deach an clàradh a choileanadh</string>
+    <string name="security_settings_face_enroll_error_timeout_dialog_message">Dh’fhalbh an ùine air clàradh an aodainn. Feuch ris a‑rithist.</string>
+    <string name="security_settings_face_enroll_introduction_agree">Sin dìreach</string>
+    <string name="security_settings_face_enroll_introduction_cancel">Sguir dheth</string>
+    <string name="security_settings_face_enroll_introduction_how_title">Mar a dh’obraicheas e</string>
+    <string name="security_settings_face_enroll_introduction_message_setup">Cleachd d’ aodann airson a’ ghlas a thoirt far an uidheim agad, ceannachdan ùghdarrachadh no clàradh a-steach gu aplacaidean</string>
+    <string name="security_settings_face_enroll_introduction_more">Barrachd</string>
+    <string name="security_settings_face_enroll_introduction_no_thanks">Cha phrìnich mi seo</string>
+    <string name="security_settings_face_enroll_introduction_title_unlock_disabled">Cleachd d’ aonan a chùm dearbhaidh</string>
+    <string name="security_settings_face_enroll_must_re_enroll_subtitle">Thoir piseach air an tèarainteachd ’s air an dèanadas</string>
+    <string name="security_settings_face_enroll_partial_start_over">Tòisich às ùr</string>
+    <string name="security_settings_face_enroll_repeat_title">Cuir d’ aodann am meadhan a’ chearcaill</string>
+    <string name="security_settings_face_enroll_timeout_try_again">Feuch ris a‑rithist</string>
+    <string name="security_settings_face_preference_summary">Chaidh aodann a chur ris</string>
+    <string name="security_settings_face_settings_require_attention">Iarr sùilean fosgailte</string>
+    <string name="security_settings_face_settings_require_attention_details">Airson a’ ghlas a thoirt far an fòn, feumaidh do shùilean a bhith fosgailte</string>
+    <string name="security_settings_face_settings_require_confirmation">Iarr dearbhadh an-còmhnaidh</string>
+</resources>

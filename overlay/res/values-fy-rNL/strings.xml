@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="security_settings_face_enroll_done">Foltôge</string>
+    <string name="security_settings_face_enroll_education_start">Starte</string>
+    <string name="security_settings_face_enroll_introduction_cancel">Annulearje</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="security_settings_face_enroll_dialog_ok">جەزملە</string>
+    <string name="security_settings_face_enroll_done">تامام</string>
+    <string name="security_settings_face_enroll_education_accessibility_dialog_negative">قايت</string>
+    <string name="security_settings_face_enroll_education_start">باشلا</string>
+    <string name="security_settings_face_enroll_introduction_agree">قوشۇلىمەن</string>
+    <string name="security_settings_face_enroll_introduction_cancel">ۋاز كەچ</string>
+    <string name="security_settings_face_enroll_introduction_more">تېخىمۇ كۆپ</string>
+    <string name="security_settings_face_enroll_introduction_no_thanks">ياق، رەھمەت</string>
+    <string name="security_settings_face_enroll_partial_start_over">قايتا باشلا</string>
+    <string name="security_settings_face_enroll_timeout_try_again">قايتا سىنا</string>
+</resources>

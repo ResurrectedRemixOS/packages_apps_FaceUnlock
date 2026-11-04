@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="security_settings_face_enroll_dialog_ok">AB</string>
+    <string name="security_settings_face_enroll_done">Fatu</string>
+    <string name="security_settings_face_enroll_education_accessibility_dialog_negative">Bae a coa</string>
+    <string name="security_settings_face_enroll_education_start">Cumintza</string>
+    <string name="security_settings_face_enroll_introduction_agree">De acordu</string>
+    <string name="security_settings_face_enroll_introduction_cancel">Annulla</string>
+    <string name="security_settings_face_enroll_introduction_how_title">Comente funtzionat?</string>
+    <string name="security_settings_face_enroll_introduction_more">Àteru</string>
+    <string name="security_settings_face_enroll_introduction_no_thanks">No, gràtzias</string>
+    <string name="security_settings_face_enroll_must_re_enroll_title">Torra a cunfigurare s\'isblocu de cara</string>
+    <string name="security_settings_face_enroll_partial_start_over">Torra a cumintzare</string>
+    <string name="security_settings_face_enroll_should_re_enroll_subtitle">Torra a cunfigurare s\'isblocu de cara</string>
+    <string name="security_settings_face_enroll_timeout_try_again">Torra·bi a proare</string>
+    <string name="security_settings_face_preference_title">Isblocu cun sa cara</string>
+</resources>

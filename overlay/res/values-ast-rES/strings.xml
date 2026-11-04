@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="security_settings_face_enroll_dialog_ok">D\'acuerdu</string>
+    <string name="security_settings_face_enroll_done">Fecho</string>
+    <string name="security_settings_face_enroll_education_accessibility_dialog_negative">Dir p\'atrás</string>
+    <string name="security_settings_face_enroll_education_start">Aniciar</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">Configura\'l desbloquéu facial</string>
+    <string name="security_settings_face_enroll_improve_face_alert_title">Configura\'l desbloquéu facial</string>
+    <string name="security_settings_face_enroll_introduction_agree">Acepto</string>
+    <string name="security_settings_face_enroll_introduction_cancel">Encaboxar</string>
+    <string name="security_settings_face_enroll_introduction_how_title">Cómo funciona</string>
+    <string name="security_settings_face_enroll_introduction_more">Más</string>
+    <string name="security_settings_face_enroll_introduction_no_thanks">Non, gracies</string>
+    <string name="security_settings_face_enroll_introduction_title">Configura\'l desbloquéu facial</string>
+    <string name="security_settings_face_enroll_must_re_enroll_title">Volvi configurar el desbloquéu facial</string>
+    <string name="security_settings_face_enroll_partial_start_over">Volver comenzar</string>
+    <string name="security_settings_face_enroll_should_re_enroll_subtitle">Volvi configurar el desbloquéu facial</string>
+    <string name="security_settings_face_enroll_timeout_try_again">Retentar</string>
+    <string name="security_settings_face_preference_title">Desbloquéu facial</string>
+    <string name="security_settings_face_settings_enroll">Configura\'l desbloquéu facial</string>
+</resources>
