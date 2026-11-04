@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Prøv igen"</string>
+    <string name="app_name">Ansigtslås-tjeneste</string>
+    <string name="face_enroll_title">Centrer dit ansigt i kameraet</string>
+    <string name="face_enroll_description">Hold stille, og sørg for, at der er godt lys</string>
+    <string name="face_try_again_title">Dit ansigt kunne ikke registreres</string>
+    <string name="face_try_again_description">Tryk nedenfor for at prøve igen. Sørg næste gang for godt lys, og at intet skjuler dit ansigt</string>
+    <string name="attr_light_dark">Der er brug for mere lys på ansigtet</string>
+    <string name="attr_light_high">Der er for meget lys på ansigtet</string>
+    <string name="attr_light_shadow">Der er for mange skygger på ansigtet</string>
+    <string name="unlock_failed_face_blur">Ansigtet er for sløret</string>
+    <string name="unlock_failed_face_large">Ansigtet er for tæt på</string>
+    <string name="unlock_failed_face_multi">Der blev registreret for mange ansigter</string>
+    <string name="unlock_failed_face_not_complete">Der blev kun registreret et delvist ansigt</string>
+    <string name="unlock_failed_face_small">Ansigtet er for langt væk</string>
 </resources>

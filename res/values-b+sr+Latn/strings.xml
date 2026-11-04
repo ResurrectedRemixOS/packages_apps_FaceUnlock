@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Probaj ponovo"</string>
+    <string name="app_name">Usluga za otključavanje licem</string>
+    <string name="face_enroll_title">Centrirajte lice u kadru kamere</string>
+    <string name="face_enroll_description">Držite mirno i uverite se da ste u dobro osvetljenom okruženju</string>
+    <string name="face_try_again_title">Nije bilo moguće snimiti lice</string>
+    <string name="face_try_again_description">Dodirnite ispod da pokušate ponovo. Sledeći put se uverite da ste u dobro osvetljenom okruženju i da ništa ne pokriva lice</string>
+    <string name="attr_light_dark">Licu treba više svetla</string>
+    <string name="attr_light_high">Lice je previše osvetljeno</string>
+    <string name="attr_light_shadow">Na licu ima previše senki</string>
+    <string name="unlock_failed_face_blur">Lice je zamućeno</string>
+    <string name="unlock_failed_face_large">Lice je suviše blizu</string>
+    <string name="unlock_failed_face_multi">Otkriveno je previše lica</string>
+    <string name="unlock_failed_face_not_complete">Otkriveno je samo delimično lice</string>
+    <string name="unlock_failed_face_small">Lice je predaleko</string>
 </resources>

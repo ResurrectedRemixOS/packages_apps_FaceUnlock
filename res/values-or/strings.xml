@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ"</string>
+    <string name="app_name">ଫେସ ଅନଲକ ସେବା</string>
+    <string name="face_enroll_title">କ୍ୟାମେରାରେ ଆପଣଙ୍କ ମୁହଁକୁ କେନ୍ଦ୍ରରେ ରଖନ୍ତୁ</string>
+    <string name="face_enroll_description">ସ୍ଥିର ରହନ୍ତୁ, ଏବଂ ଆଲୋକିତ ସ୍ଥାନରେ ଥିବା ନିଶ୍ଚିତ କରନ୍ତୁ</string>
+    <string name="face_try_again_title">ଆପଣଙ୍କ ମୁହଁ କ୍ୟାପଚର କରାଯାଇ ପାରିଲା ନାହିଁ</string>
+    <string name="face_try_again_description">ପୁଣି ଚେଷ୍ଟା କରିବାକୁ ତଳେ ଟ୍ୟାପ କରନ୍ତୁ। ପରବର୍ତ୍ତୀ ଥର ଆଲୋକିତ ସ୍ଥାନରେ ଥାଆନ୍ତୁ ଏବଂ ମୁହଁ ଆଚ୍ଛାଦିତ ନ ରଖନ୍ତୁ</string>
+    <string name="attr_light_dark">ମୁହଁ ପାଇଁ ଅଧିକ ଆଲୋକ ଦରକାର</string>
+    <string name="attr_light_high">ମୁହଁ ଉପରେ ଅତ୍ୟଧିକ ଆଲୋକ ଅଛି</string>
+    <string name="attr_light_shadow">ମୁହଁ ଉପରେ ଅନେକ ଛାଇ ଅଛି</string>
+    <string name="unlock_failed_face_blur">ମୁହଁ ବହୁତ ଝାପସା ଅଛି</string>
+    <string name="unlock_failed_face_large">ମୁହଁ ବହୁତ ନିକଟରେ ଅଛି</string>
+    <string name="unlock_failed_face_multi">ଅନେକ ମୁହଁ ଚିହ୍ନଟ ହୋଇଛି</string>
+    <string name="unlock_failed_face_not_complete">କେବଳ ଆଂଶିକ ମୁହଁ ଚିହ୍ନଟ ହୋଇଛି</string>
+    <string name="unlock_failed_face_small">ମୁହଁ ବହୁତ ଦୂରରେ ଅଛି</string>
 </resources>

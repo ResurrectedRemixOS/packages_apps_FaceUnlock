@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Subukan ulit"</string>
+    <string name="app_name">Face Unlock Service</string>
+    <string name="face_enroll_title">Ituon ang mukha mo sa camera</string>
+    <string name="face_enroll_description">Manatiling nakatigil, at siguraduhing nasa maliwanag na lugar ka</string>
+    <string name="face_try_again_title">Hindi namin nakuha ang mukha mo</string>
+    <string name="face_try_again_description">I-tap sa ibaba para subukan ulit. Sa susunod, siguraduhing nasa maliwanag na lugar ka at walang nakatakip sa mukha mo</string>
+    <string name="attr_light_dark">Kulang sa liwanag ang mukha</string>
+    <string name="attr_light_high">Sobra ang liwanag sa mukha</string>
+    <string name="attr_light_shadow">Masyadong maraming anino sa mukha</string>
+    <string name="unlock_failed_face_blur">Malabo ang mukha</string>
+    <string name="unlock_failed_face_large">Masyadong malapit ang mukha</string>
+    <string name="unlock_failed_face_multi">Maraming mukhang natukoy</string>
+    <string name="unlock_failed_face_not_complete">Bahagi lang ng mukha ang natukoy</string>
+    <string name="unlock_failed_face_small">Masyadong malayo ang mukha</string>
 </resources>

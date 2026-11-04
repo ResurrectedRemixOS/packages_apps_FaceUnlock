@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"మళ్లీ ట్రై చేయండి"</string>
+    <string name="app_name">ముఖ అన్‌లాక్ సర్వీస్</string>
+    <string name="face_enroll_title">కెమెరాలో మీ ముఖాన్ని మధ్యలో ఉంచండి</string>
+    <string name="face_enroll_description">కదలకుండా ఉండండి, మీరు మంచి వెలుతురు ఉన్న ప్రదేశంలో ఉన్నారని నిర్ధారించుకోండి</string>
+    <string name="face_try_again_title">మీ ముఖాన్ని క్యాప్చర్ చేయలేకపోయాం</string>
+    <string name="face_try_again_description">మళ్లీ ప్రయత్నించడానికి కింద నొక్కండి. తదుపరిసారి మంచి వెలుతురు ఉన్న ప్రదేశంలో ఉండండి మరియు మీ ముఖాన్ని ఏదీ అడ్డుకోకుండా చూసుకోండి</string>
+    <string name="attr_light_dark">ముఖానికి ఇంకొంత వెలుతురు కావాలి</string>
+    <string name="attr_light_high">ముఖంపై ఎక్కువ వెలుతురు ఉంది</string>
+    <string name="attr_light_shadow">ముఖంపై ఎక్కువ నీడలు ఉన్నాయి</string>
+    <string name="unlock_failed_face_blur">ముఖం మసకగా ఉంది</string>
+    <string name="unlock_failed_face_large">ముఖం మరీ దగ్గరగా ఉంది</string>
+    <string name="unlock_failed_face_multi">చాలా ముఖాలు గుర్తించబడ్డాయి</string>
+    <string name="unlock_failed_face_not_complete">ముఖంలో కొంత భాగం మాత్రమే గుర్తించబడింది</string>
+    <string name="unlock_failed_face_small">ముఖం చాలా దూరంగా ఉంది</string>
 </resources>

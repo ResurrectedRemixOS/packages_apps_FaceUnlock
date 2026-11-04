@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"আবার চেষ্টা করুন"</string>
+    <string name="app_name">ফেস আনলক সার্ভিস</string>
+    <string name="face_enroll_title">ক্যামেরায় মুখ কেন্দ্রে রাখুন</string>
+    <string name="face_enroll_description">স্থির থাকুন এবং নিশ্চিত করুন যে আলোকিত পরিবেশে আছেন</string>
+    <string name="face_try_again_title">আপনার মুখ শনাক্ত করা যায়নি</string>
+    <string name="face_try_again_description">আবার চেষ্টা করতে নিচে ট্যাপ করুন। এবার আলোকিত পরিবেশে থাকুন এবং মুখ যেন কিছু দিয়ে ঢাকা না থাকে তা নিশ্চিত করুন</string>
+    <string name="attr_light_dark">মুখে আরও আলো প্রয়োজন</string>
+    <string name="attr_light_high">মুখে অতিরিক্ত আলো পড়েছে</string>
+    <string name="attr_light_shadow">মুখে অনেক ছায়া পড়েছে</string>
+    <string name="unlock_failed_face_blur">মুখ অস্পষ্ট হয়ে আছে</string>
+    <string name="unlock_failed_face_large">মুখ খুব কাছে আছে</string>
+    <string name="unlock_failed_face_multi">অনেকগুলো মুখ শনাক্ত হয়েছে</string>
+    <string name="unlock_failed_face_not_complete">শুধু আংশিক মুখ শনাক্ত হয়েছে</string>
+    <string name="unlock_failed_face_small">মুখ অনেক দূরে আছে</string>
 </resources>

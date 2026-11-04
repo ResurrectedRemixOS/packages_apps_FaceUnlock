@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Provo përsëri"</string>
+    <string name="app_name">Shërbimi i njohjes së fytyrës</string>
+    <string name="face_enroll_title">Vendos fytyrën tënde në qendër të kamerës</string>
+    <string name="face_enroll_description">Qëndro i palëvizur dhe sigurohu që të jesh në një mjedis me dritë të mirë</string>
+    <string name="face_try_again_title">Fytyra nuk u regjistrua</string>
+    <string name="face_try_again_description">Prek më poshtë për të provuar përsëri. Herën tjetër, sigurohu që të jesh në një mjedis me dritë të mirë dhe që asgjë të mos e fshehë fytyrën</string>
+    <string name="attr_light_dark">Fytyra ka nevojë për më shumë dritë</string>
+    <string name="attr_light_high">Fytyra ka shumë dritë</string>
+    <string name="attr_light_shadow">Fytyra ka shumë hije</string>
+    <string name="unlock_failed_face_blur">Fytyra është e paqartë</string>
+    <string name="unlock_failed_face_large">Fytyra është shumë afër</string>
+    <string name="unlock_failed_face_multi">U zbuluan shumë fytyra</string>
+    <string name="unlock_failed_face_not_complete">U zbulua vetëm një pjesë e fytyrës</string>
+    <string name="unlock_failed_face_small">Fytyra është shumë larg</string>
 </resources>

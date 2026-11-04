@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Försök igen"</string>
+    <string name="app_name">Ansiktsupplåsningstjänst</string>
+    <string name="face_enroll_title">Centrera ansiktet i kameran</string>
+    <string name="face_enroll_description">Håll stilla och se till att du är i en väl upplyst miljö</string>
+    <string name="face_try_again_title">Ansiktet kunde inte fångas</string>
+    <string name="face_try_again_description">Tryck nedan för att försöka igen. Nästa gång, se till att du är i en väl upplyst miljö och att inget skymmer ansiktet</string>
+    <string name="attr_light_dark">Ansiktet behöver mer ljus</string>
+    <string name="attr_light_high">Ansiktet har för mycket ljus</string>
+    <string name="attr_light_shadow">Ansiktet har för många skuggor</string>
+    <string name="unlock_failed_face_blur">Ansiktet är för suddigt</string>
+    <string name="unlock_failed_face_large">Ansiktet är för nära</string>
+    <string name="unlock_failed_face_multi">För många ansikten upptäcktes</string>
+    <string name="unlock_failed_face_not_complete">Endast delvis ansikte upptäckt</string>
+    <string name="unlock_failed_face_small">Ansiktet är för långt bort</string>
 </resources>

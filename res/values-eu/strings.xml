@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Saiatu berriro"</string>
+    <string name="app_name">Aurpegi-desblokeatzeko zerbitzua</string>
+    <string name="face_enroll_title">Jarri aurpegia kameraren erdian</string>
+    <string name="face_enroll_description">Eutsi geldirik eta ziurtatu argi ona dagoela</string>
+    <string name="face_try_again_title">Ezin izan da aurpegia harrapatu</string>
+    <string name="face_try_again_description">Sakatu behean berriro saiatzeko. Hurrengoan, ziurtatu argi ona dagoela eta ez dagoela ezer aurpegia estaltzen</string>
+    <string name="attr_light_dark">Aurpegiak argi gehiago behar du</string>
+    <string name="attr_light_high">Aurpegiak argi gehiegi du</string>
+    <string name="attr_light_shadow">Aurpegiak itzal gehiegi ditu</string>
+    <string name="unlock_failed_face_blur">Aurpegia lausoegia da</string>
+    <string name="unlock_failed_face_large">Aurpegia gerturegi dago</string>
+    <string name="unlock_failed_face_multi">Aurpegi gehiegi antzeman dira</string>
+    <string name="unlock_failed_face_not_complete">Aurpegi partziala bakarrik antzeman da</string>
+    <string name="unlock_failed_face_small">Aurpegia urrunegi dago</string>
 </resources>

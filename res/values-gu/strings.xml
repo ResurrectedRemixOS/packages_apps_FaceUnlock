@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"ફરી પ્રયાસ કરો"</string>
+    <string name="app_name">ફેસ અનલૉક સેવા</string>
+    <string name="face_enroll_title">કૅમેરામાં તમારો ચહેરો મધ્યમાં રાખો</string>
+    <string name="face_enroll_description">સ્થિર રહો, અને ખાતરી કરો કે તમે સારી રોશનીવાળા વાતાવરણમાં છો</string>
+    <string name="face_try_again_title">તમારો ચહેરો કૅપ્ચર ન થયો</string>
+    <string name="face_try_again_description">ફરી પ્રયાસ કરવા માટે નીચે ટૅપ કરો. આગલી વખતે, ખાતરી કરો કે તમે સારી રોશનીવાળા વાતાવરણમાં છો અને ચહેરો કંઈ ઢાંકતું નથી</string>
+    <string name="attr_light_dark">ચહેરા માટે વધુ પ્રકાશ જોઈએ</string>
+    <string name="attr_light_high">ચહેરા પર વધુ પ્રકાશ છે</string>
+    <string name="attr_light_shadow">ચહેરા પર ઘણા પડછાયા છે</string>
+    <string name="unlock_failed_face_blur">ચહેરો ઝાંખો છે</string>
+    <string name="unlock_failed_face_large">ચહેરો બહુ નજીક છે</string>
+    <string name="unlock_failed_face_multi">ઘણા ચહેરા મળ્યા</string>
+    <string name="unlock_failed_face_not_complete">ફક્ત આંશિક ચહેરો મળ્યો</string>
+    <string name="unlock_failed_face_small">ચહેરો બહુ દૂર છે</string>
 </resources>

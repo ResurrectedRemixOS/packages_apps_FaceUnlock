@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Jaribu tena"</string>
+    <string name="app_name">Huduma ya Kufungua kwa Uso</string>
+    <string name="face_enroll_title">Weka uso wako katikati ya kamera</string>
+    <string name="face_enroll_description">Shikilia tuli, na hakikisha uko mahali penye mwanga wa kutosha</string>
+    <string name="face_try_again_title">Imeshindwa kunasa uso wako</string>
+    <string name="face_try_again_description">Gusa hapa chini ili ujaribu tena. Wakati mwingine, hakikisha uko mahali penye mwanga wa kutosha na hakuna kitu kinachofunika uso wako</string>
+    <string name="attr_light_dark">Uso unahitaji mwanga zaidi</string>
+    <string name="attr_light_high">Uso una mwanga mwingi mno</string>
+    <string name="attr_light_shadow">Uso una vivuli vingi</string>
+    <string name="unlock_failed_face_blur">Uso una ukungu</string>
+    <string name="unlock_failed_face_large">Uso uko karibu mno</string>
+    <string name="unlock_failed_face_multi">Nyuso nyingi zimegunduliwa</string>
+    <string name="unlock_failed_face_not_complete">Sehemu ya uso pekee ndiyo imegunduliwa</string>
+    <string name="unlock_failed_face_small">Uso uko mbali mno</string>
 </resources>

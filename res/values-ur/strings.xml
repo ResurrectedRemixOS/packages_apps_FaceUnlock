@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"دوبارہ کوشش کریں"</string>
+    <string name="app_name">Face Unlock سروس</string>
+    <string name="face_enroll_title">کیمرے میں اپنا چہرہ مرکز میں رکھیں</string>
+    <string name="face_enroll_description">ساکن رہیں، اور یقینی بنائیں کہ آپ کسی روشن جگہ پر ہوں</string>
+    <string name="face_try_again_title">آپ کا چہرہ محفوظ نہیں ہو سکا</string>
+    <string name="face_try_again_description">دوبارہ کوشش کرنے کے لیے نیچے ٹیپ کریں۔ اگلی بار یقینی بنائیں کہ آپ روشن جگہ پر ہوں اور کوئی چیز آپ کے چہرے کو نہ ڈھانپے</string>
+    <string name="attr_light_dark">چہرے کے لیے مزید روشنی درکار ہے</string>
+    <string name="attr_light_high">چہرے پر بہت زیادہ روشنی ہے</string>
+    <string name="attr_light_shadow">چہرے پر بہت زیادہ سائے ہیں</string>
+    <string name="unlock_failed_face_blur">چہرہ دھندلا ہے</string>
+    <string name="unlock_failed_face_large">چہرہ بہت قریب ہے</string>
+    <string name="unlock_failed_face_multi">بہت سے چہرے ملے</string>
+    <string name="unlock_failed_face_not_complete">صرف جزوی چہرہ ملا</string>
+    <string name="unlock_failed_face_small">چہرہ بہت دور ہے</string>
 </resources>

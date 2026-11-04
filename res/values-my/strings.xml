@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"ထပ်စမ်းကြည့်ရန်"</string>
+    <string name="app_name">မျက်နှာဖြင့် လော့ခ်ဖွင့်ခြင်း ဝန်adon</string>
+    <string name="face_enroll_title">မျက်နှာကို ကင်မရာအလယ်တွင် ထားပါ</string>
+    <string name="face_enroll_description">လှုပ်မနေဘဲ အလင်းရောင်ကောင်းသော နေရာတွင် ရှိပါစေ</string>
+    <string name="face_try_again_title">မျက်နှာကို ဖမ်းယူ၍ မရပါ</string>
+    <string name="face_try_again_description">ထပ်ကြိုးစားရန် အောက်တွင် နှိပ်ပါ။ နောက်တစ်ကြိမ်တွင် အလင်းရောင်ကောင်းသော နေရာတွင် ရှိပြီး မျက်နှာကို မဖုံးအောင် ထားပါ</string>
+    <string name="attr_light_dark">မျက်နှာအတွက် အလင်းရောင် ပိုလိုသည်</string>
+    <string name="attr_light_high">မျက်နှာအတွက် အလင်းရောင် အလွန်များနေသည်</string>
+    <string name="attr_light_shadow">မျက်နှာတွင် အရိပ်များ အလွန်များနေသည်</string>
+    <string name="unlock_failed_face_blur">မျက်နှာ ပုံ၀ါးနေသည်</string>
+    <string name="unlock_failed_face_large">မျက်နှာ အလွန်နီးနေသည်</string>
+    <string name="unlock_failed_face_multi">မျက်နှာ အများအပြား တွေ့ရှိသည်</string>
+    <string name="unlock_failed_face_not_complete">မျက်နှာ တစ်စိတ်တစ်ပိုင်းသာ တွေ့ရှိသည်</string>
+    <string name="unlock_failed_face_small">မျက်နှာ အလွန်ဝေးနေသည်</string>
 </resources>

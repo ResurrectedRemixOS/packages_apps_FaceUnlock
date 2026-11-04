@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Réessayer"</string>
+    <string name="app_name">Service de déverrouillage par le visage</string>
+    <string name="face_enroll_title">Centrez votre visage dans la caméra</string>
+    <string name="face_enroll_description">Restez immobile et placez-vous dans un endroit bien éclairé</string>
+    <string name="face_try_again_title">Impossible de capturer votre visage</string>
+    <string name="face_try_again_description">Appuyez ci-dessous pour réessayer. La prochaine fois, placez-vous dans un endroit bien éclairé et ne masquez pas votre visage</string>
+    <string name="attr_light_dark">Le visage manque de lumière</string>
+    <string name="attr_light_high">Le visage est trop éclairé</string>
+    <string name="attr_light_shadow">Le visage présente trop d\'ombres</string>
+    <string name="unlock_failed_face_blur">Le visage est trop flou</string>
+    <string name="unlock_failed_face_large">Le visage est trop près</string>
+    <string name="unlock_failed_face_multi">Plusieurs visages détectés</string>
+    <string name="unlock_failed_face_not_complete">Seule une partie du visage est détectée</string>
+    <string name="unlock_failed_face_small">Le visage est trop loin</string>
 </resources>

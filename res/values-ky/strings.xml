@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Кайталоо"</string>
+    <string name="app_name">Бет менен ачуу кызматы</string>
+    <string name="face_enroll_title">Жүзүңүздү камеранын ортосуна коюңуз</string>
+    <string name="face_enroll_description">Кыймылсыз туруңуз жана жарык жеткиликтүү жерде экениңизди текшериңиз</string>
+    <string name="face_try_again_title">Жүзүңүздү таанып болгон жок</string>
+    <string name="face_try_again_description">Кайра аракет кылуу үчүн төмөндөгүнү басыңыз. Кийинки жолу жарык жакшы жерде туруңуз жана жүзүңүздү эч нерсе каптабасын</string>
+    <string name="attr_light_dark">Жүзгө жарык жетишсиз</string>
+    <string name="attr_light_high">Жүзгө жарык өтө көп</string>
+    <string name="attr_light_shadow">Жүздө көлөкө өтө көп</string>
+    <string name="unlock_failed_face_blur">Жүз өтө бүдөмүк</string>
+    <string name="unlock_failed_face_large">Жүз камерага өтө жакын</string>
+    <string name="unlock_failed_face_multi">Өтө көп жүз табылды</string>
+    <string name="unlock_failed_face_not_complete">Жүздүн бир бөлүгү гана табылды</string>
+    <string name="unlock_failed_face_small">Жүз камерадан өтө алыс</string>
 </resources>

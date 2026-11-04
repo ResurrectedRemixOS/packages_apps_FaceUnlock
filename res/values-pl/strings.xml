@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Spróbuj ponownie"</string>
+    <string name="app_name">Usługa rozpoznawania twarzy</string>
+    <string name="face_enroll_title">Wycentruj twarz w kamerze</string>
+    <string name="face_enroll_description">Trzymaj nieruchomo i upewnij się, że jesteś w dobrze oświetlonym miejscu</string>
+    <string name="face_try_again_title">Nie udało się zarejestrować twarzy</string>
+    <string name="face_try_again_description">Dotknij poniżej, aby spróbować ponownie. Następnym razem upewnij się, że jesteś w dobrze oświetlonym miejscu i że nic nie zasłania twarzy</string>
+    <string name="attr_light_dark">Za mało światła na twarzy</string>
+    <string name="attr_light_high">Za dużo światła na twarzy</string>
+    <string name="attr_light_shadow">Zbyt duże cienie na twarzy</string>
+    <string name="unlock_failed_face_blur">Twarz jest zbyt rozmazana</string>
+    <string name="unlock_failed_face_large">Twarz jest zbyt blisko</string>
+    <string name="unlock_failed_face_multi">Wykryto zbyt wiele twarzy</string>
+    <string name="unlock_failed_face_not_complete">Wykryto tylko część twarzy</string>
+    <string name="unlock_failed_face_small">Twarz jest zbyt daleko</string>
 </resources>

@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Reyna aftur"</string>
+    <string name="app_name">Andlitsopnunarþjónusta</string>
+    <string name="face_enroll_title">Miðjaðu andlitið í myndavélinni</string>
+    <string name="face_enroll_description">Haltu kyrru fyrir og vertu í vel upplýstu umhverfi</string>
+    <string name="face_try_again_title">Tókst ekki að taka mynd af andlitinu</string>
+    <string name="face_try_again_description">Pikkaðu hér að neðan til að reyna aftur. Næst skaltu ganga úr skugga um að þú sért í vel upplýstu umhverfi og að ekkert hylji andlitið</string>
+    <string name="attr_light_dark">Andlitið þarf meiri birtu</string>
+    <string name="attr_light_high">Of mikil birta á andliti</string>
+    <string name="attr_light_shadow">Of miklir skuggar á andliti</string>
+    <string name="unlock_failed_face_blur">Andlitið er of óskýrt</string>
+    <string name="unlock_failed_face_large">Andlitið er of nálægt</string>
+    <string name="unlock_failed_face_multi">Of mörg andlit greind</string>
+    <string name="unlock_failed_face_not_complete">Aðeins hluti andlits greindist</string>
+    <string name="unlock_failed_face_small">Andlitið er of langt í burtu</string>
 </resources>

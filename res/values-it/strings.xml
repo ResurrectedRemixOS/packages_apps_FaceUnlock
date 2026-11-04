@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Riprova"</string>
+    <string name="app_name">Servizio Sblocco con volto</string>
+    <string name="face_enroll_title">Centra il viso nella fotocamera</string>
+    <string name="face_enroll_description">Stai fermo e assicurati di essere in un ambiente ben illuminato</string>
+    <string name="face_try_again_title">Impossibile acquisire il viso</string>
+    <string name="face_try_again_description">Tocca qui sotto per riprovare. La prossima volta assicurati di essere in un ambiente ben illuminato e che nulla copra il viso</string>
+    <string name="attr_light_dark">Il viso necessita di più luce</string>
+    <string name="attr_light_high">Il viso ha troppa luce</string>
+    <string name="attr_light_shadow">Il viso ha troppe ombre</string>
+    <string name="unlock_failed_face_blur">Il viso è troppo sfocato</string>
+    <string name="unlock_failed_face_large">Il viso è troppo vicino</string>
+    <string name="unlock_failed_face_multi">Rilevati troppi volti</string>
+    <string name="unlock_failed_face_not_complete">Rilevato solo un volto parziale</string>
+    <string name="unlock_failed_face_small">Il viso è troppo lontano</string>
 </resources>

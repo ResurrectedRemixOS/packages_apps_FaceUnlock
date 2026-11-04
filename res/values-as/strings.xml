@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"পুনৰ চেষ্টা কৰক"</string>
+    <string name="app_name">মুখমণ্ডল আনলক সেৱা</string>
+    <string name="face_enroll_title">কেমেৰাত আপোনাৰ মুখমণ্ডল কেন্দ্ৰত ৰাখক</string>
+    <string name="face_enroll_description">স্থিৰ হৈ থাকক, আৰু পোহৰ ভালকৈ থকা ঠাইত থাকক</string>
+    <string name="face_try_again_title">আপোনাৰ মুখমণ্ডল ল\'ব পৰা নগ\'ল</string>
+    <string name="face_try_again_description">পুনৰ চেষ্টা কৰিবলৈ তলত টিপক। পৰৱৰ্তী বাৰ পোহৰ ভালকৈ থকা ঠাইত থাকক আৰু মুখ কোনোবাই আবৰি নথকক</string>
+    <string name="attr_light_dark">মুখত অধিক পোহৰ প্ৰয়োজন</string>
+    <string name="attr_light_high">মুখত অধিক পোহৰ পৰিছে</string>
+    <string name="attr_light_shadow">মুখত অধিক ছাঁ পৰিছে</string>
+    <string name="unlock_failed_face_blur">মুখ অতি অস্পষ্ট হৈছে</string>
+    <string name="unlock_failed_face_large">মুখ অতি ওচৰত আছে</string>
+    <string name="unlock_failed_face_multi">অতি অধিক মুখ শনাক্ত হ\'ল</string>
+    <string name="unlock_failed_face_not_complete">কেৱল আংশিক মুখ শনাক্ত হ\'ল</string>
+    <string name="unlock_failed_face_small">মুখ অতি দূৰত আছে</string>
 </resources>

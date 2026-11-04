@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Yritä uudelleen"</string>
+    <string name="app_name">Kasvotunnistuspalvelu</string>
+    <string name="face_enroll_title">Keskitä kasvosi kameraan</string>
+    <string name="face_enroll_description">Pysy paikallasi ja varmista, että valaistus on hyvä</string>
+    <string name="face_try_again_title">Kasvoja ei voitu tunnistaa</string>
+    <string name="face_try_again_description">Yritä uudelleen napauttamalla alla. Varmista seuraavalla kerralla, että valaistus on hyvä eikä mikään peitä kasvojasi</string>
+    <string name="attr_light_dark">Kasvoihin tarvitaan lisää valoa</string>
+    <string name="attr_light_high">Kasvot ovat liian valoisat</string>
+    <string name="attr_light_shadow">Kasvoilla on liikaa varjoja</string>
+    <string name="unlock_failed_face_blur">Kasvot ovat liian epätarkat</string>
+    <string name="unlock_failed_face_large">Kasvot ovat liian lähellä</string>
+    <string name="unlock_failed_face_multi">Useita kasvoja havaittu</string>
+    <string name="unlock_failed_face_not_complete">Vain osa kasvoista havaittu</string>
+    <string name="unlock_failed_face_small">Kasvot ovat liian kaukana</string>
 </resources>

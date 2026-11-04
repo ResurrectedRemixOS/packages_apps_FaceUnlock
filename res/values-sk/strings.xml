@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Skúsiť znova"</string>
+    <string name="app_name">Služba rozpoznávania tváre</string>
+    <string name="face_enroll_title">Vycentrujte tvár do kamery</string>
+    <string name="face_enroll_description">Nehýbte sa a uistite sa, že ste v dobre osvetlenom prostredí</string>
+    <string name="face_try_again_title">Nepodarilo sa zachytiť vašu tvár</string>
+    <string name="face_try_again_description">Klepnutím nižšie to skúste znova. Nabudúce sa uistite, že ste v dobre osvetlenom prostredí a nič nezakrýva vašu tvár</string>
+    <string name="attr_light_dark">Na tvári je málo svetla</string>
+    <string name="attr_light_high">Na tvári je príliš veľa svetla</string>
+    <string name="attr_light_shadow">Na tvári sú príliš výrazné tiene</string>
+    <string name="unlock_failed_face_blur">Tvár je príliš rozmazaná</string>
+    <string name="unlock_failed_face_large">Tvár je príliš blízko</string>
+    <string name="unlock_failed_face_multi">Zistilo sa príliš veľa tvárí</string>
+    <string name="unlock_failed_face_not_complete">Zistila sa iba časť tváre</string>
+    <string name="unlock_failed_face_small">Tvár je príliš ďaleko</string>
 </resources>

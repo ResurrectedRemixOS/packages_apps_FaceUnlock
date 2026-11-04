@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"ಪುನಃ ಪ್ರಯತ್ನಿಸಿ"</string>
+    <string name="app_name">ಫೇಸ್ ಅನ್‌ಲಾಕ್ ಸೇವೆ</string>
+    <string name="face_enroll_title">ಕ್ಯಾಮೆರಾದಲ್ಲಿ ನಿಮ್ಮ ಮುಖವನ್ನು ಮಧ್ಯದಲ್ಲಿ ಇರಿಸಿ</string>
+    <string name="face_enroll_description">ಸ್ಥಿರವಾಗಿರಿ, ಮತ್ತು ನೀವು ಉತ್ತಮ ಬೆಳಕು ಇರುವ ಸ್ಥಳದಲ್ಲಿದ್ದೀರಿ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ</string>
+    <string name="face_try_again_title">ನಿಮ್ಮ ಮುಖವನ್ನು ಸೆರೆಹಿಡಿಯಲಾಗಲಿಲ್ಲ</string>
+    <string name="face_try_again_description">ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಲು ಕೆಳಗೆ ಟ್ಯಾಪ್ ಮಾಡಿ. ಮುಂದಿನ ಬಾರಿ, ನೀವು ಉತ್ತಮ ಬೆಳಕು ಇರುವ ಸ್ಥಳದಲ್ಲಿದ್ದೀರಿ ಮತ್ತು ನಿಮ್ಮ ಮುಖವನ್ನು ಯಾವುದೂ ಮರೆ ಮಾಡುತ್ತಿಲ್ಲ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ</string>
+    <string name="attr_light_dark">ಮುಖಕ್ಕೆ ಹೆಚ್ಚು ಬೆಳಕು ಬೇಕು</string>
+    <string name="attr_light_high">ಮುಖಕ್ಕೆ ತುಂಬಾ ಬೆಳಕು ಇದೆ</string>
+    <string name="attr_light_shadow">ಮುಖದ ಮೇಲೆ ತುಂಬಾ ನೆರಳುಗಳಿವೆ</string>
+    <string name="unlock_failed_face_blur">ಮುಖ ತುಂಬಾ ಮಸುಕಾಗಿದೆ</string>
+    <string name="unlock_failed_face_large">ಮುಖ ತುಂಬಾ ಹತ್ತಿರದಲ್ಲಿದೆ</string>
+    <string name="unlock_failed_face_multi">ಹಲವು ಮುಖಗಳು ಪತ್ತೆಯಾಗಿವೆ</string>
+    <string name="unlock_failed_face_not_complete">ಮುಖದ ಭಾಗ ಮಾತ್ರ ಪತ್ತೆಯಾಗಿದೆ</string>
+    <string name="unlock_failed_face_small">ಮುಖ ತುಂಬಾ ದೂರದಲ್ಲಿದೆ</string>
 </resources>

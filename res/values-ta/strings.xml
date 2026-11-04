@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"மீண்டும் முயல்க"</string>
+    <string name="app_name">முக அன்லாக் சேவை</string>
+    <string name="face_enroll_title">கேமராவின் நடுவில் உங்கள் முகத்தை வைக்கவும்</string>
+    <string name="face_enroll_description">அசையாமல் இருங்கள், நல்ல வெளிச்சமான இடத்தில் இருப்பதை உறுதி செய்யுங்கள்</string>
+    <string name="face_try_again_title">உங்கள் முகத்தைப் பதிவு செய்ய முடியவில்லை</string>
+    <string name="face_try_again_description">மீண்டும் முயல கீழே தட்டவும். அடுத்த முறை நல்ல வெளிச்சமான இடத்தில் இருங்கள், முகத்தை எதுவும் மறைக்காமல் பார்த்துக்கொள்ளுங்கள்</string>
+    <string name="attr_light_dark">முகத்திற்கு இன்னும் வெளிச்சம் தேவை</string>
+    <string name="attr_light_high">முகத்தில் வெளிச்சம் அதிகமாக உள்ளது</string>
+    <string name="attr_light_shadow">முகத்தில் நிழல்கள் அதிகமாக உள்ளன</string>
+    <string name="unlock_failed_face_blur">முகம் மங்கலாக உள்ளது</string>
+    <string name="unlock_failed_face_large">முகம் மிக அருகில் உள்ளது</string>
+    <string name="unlock_failed_face_multi">பல முகங்கள் கண்டறியப்பட்டன</string>
+    <string name="unlock_failed_face_not_complete">முகத்தின் ஒரு பகுதி மட்டுமே கண்டறியப்பட்டது</string>
+    <string name="unlock_failed_face_small">முகம் மிகத் தொலைவில் உள்ளது</string>
 </resources>

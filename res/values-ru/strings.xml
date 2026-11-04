@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Повторить"</string>
+    <string name="app_name">Служба разблокировки по лицу</string>
+    <string name="face_enroll_title">Поместите лицо в центр камеры</string>
+    <string name="face_enroll_description">Держите голову неподвижно и находитесь в хорошо освещённом месте</string>
+    <string name="face_try_again_title">Не удалось распознать лицо</string>
+    <string name="face_try_again_description">Нажмите ниже, чтобы повторить попытку. В следующий раз убедитесь, что вы находитесь в хорошо освещённом месте и ничто не закрывает лицо</string>
+    <string name="attr_light_dark">Недостаточно света на лице</string>
+    <string name="attr_light_high">На лицо падает слишком сильный свет</string>
+    <string name="attr_light_shadow">На лице слишком много теней</string>
+    <string name="unlock_failed_face_blur">Лицо размыто</string>
+    <string name="unlock_failed_face_large">Лицо слишком близко</string>
+    <string name="unlock_failed_face_multi">Обнаружено слишком много лиц</string>
+    <string name="unlock_failed_face_not_complete">Обнаружена только часть лица</string>
+    <string name="unlock_failed_face_small">Лицо слишком далеко</string>
 </resources>

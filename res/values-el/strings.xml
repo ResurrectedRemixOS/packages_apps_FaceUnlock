@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Δοκιμάστε ξανά"</string>
+    <string name="app_name">Υπηρεσία ξεκλειδώματος με πρόσωπο</string>
+    <string name="face_enroll_title">Τοποθετήστε το πρόσωπό σας στη μέση της κάμερας</string>
+    <string name="face_enroll_description">Μείνετε ακίνητοι και βεβαιωθείτε ότι βρίσκεστε σε καλά φωτισμένο χώρο</string>
+    <string name="face_try_again_title">Δεν ήταν δυνατή η λήψη του προσώπου σας</string>
+    <string name="face_try_again_description">Πατήστε παρακάτω για να δοκιμάσετε ξανά. Την επόμενη φορά, βεβαιωθείτε ότι βρίσκεστε σε καλά φωτισμένο χώρο και ότι τίποτα δεν καλύπτει το πρόσωπό σας</string>
+    <string name="attr_light_dark">Το πρόσωπο χρειάζεται περισσότερο φως</string>
+    <string name="attr_light_high">Το πρόσωπο έχει πολύ φως</string>
+    <string name="attr_light_shadow">Το πρόσωπο έχει πολλές σκιές</string>
+    <string name="unlock_failed_face_blur">Το πρόσωπο είναι θολό</string>
+    <string name="unlock_failed_face_large">Το πρόσωπο είναι πολύ κοντά</string>
+    <string name="unlock_failed_face_multi">Εντοπίστηκαν πολλά πρόσωπα</string>
+    <string name="unlock_failed_face_not_complete">Εντοπίστηκε μόνο μέρος του προσώπου</string>
+    <string name="unlock_failed_face_small">Το πρόσωπο είναι πολύ μακριά</string>
 </resources>

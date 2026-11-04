@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Újra"</string>
+    <string name="app_name">Arcfelismerő szolgáltatás</string>
+    <string name="face_enroll_title">Igazítsa arcát a kamera közepére</string>
+    <string name="face_enroll_description">Maradjon mozdulatlanul, és biztosítsa a jó megvilágítást</string>
+    <string name="face_try_again_title">Nem sikerült rögzíteni az arcát</string>
+    <string name="face_try_again_description">Koppintson alább az újrapróbálkozáshoz. Legközelebb győződjön meg róla, hogy jó a megvilágítás, és semmi sem takarja az arcát</string>
+    <string name="attr_light_dark">Az arc több fényre van szükség</string>
+    <string name="attr_light_high">Az arc túl sok fényt kap</string>
+    <string name="attr_light_shadow">Az arcon túl sok az árnyék</string>
+    <string name="unlock_failed_face_blur">Az arc elmosódott</string>
+    <string name="unlock_failed_face_large">Az arc túl közel van</string>
+    <string name="unlock_failed_face_multi">Túl sok arc érzékelhető</string>
+    <string name="unlock_failed_face_not_complete">Csak részben látható arc érzékelhető</string>
+    <string name="unlock_failed_face_small">Az arc túl messze van</string>
 </resources>

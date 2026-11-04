@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ"</string>
+    <string name="app_name">ਫੇਸ ਅਨਲਾਕ ਸੇਵਾ</string>
+    <string name="face_enroll_title">ਕੈਮਰੇ ਵਿੱਚ ਆਪਣਾ ਚਿਹਰਾ ਵਿਚਕਾਰ ਰੱਖੋ</string>
+    <string name="face_enroll_description">ਸਥਿਰ ਰਹੋ, ਅਤੇ ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਤੁਸੀਂ ਚੰਗੀ ਰੋਸ਼ਨੀ ਵਾਲੀ ਜਗ੍ਹਾ \'ਤੇ ਹੋ</string>
+    <string name="face_try_again_title">ਤੁਹਾਡਾ ਚਿਹਰਾ ਕੈਪਚਰ ਨਹੀਂ ਹੋ ਸਕਿਆ</string>
+    <string name="face_try_again_description">ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰਨ ਲਈ ਹੇਠਾਂ ਟੈਪ ਕਰੋ। ਅਗਲੀ ਵਾਰ ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਤੁਸੀਂ ਚੰਗੀ ਰੋਸ਼ਨੀ ਵਾਲੀ ਜਗ੍ਹਾ \'ਤੇ ਹੋ ਅਤੇ ਤੁਹਾਡੇ ਚਿਹਰੇ ਨੂੰ ਕੁਝ ਵੀ ਢੱਕ ਨਾ ਰਿਹਾ ਹੋਵੇ</string>
+    <string name="attr_light_dark">ਚਿਹਰੇ ਨੂੰ ਹੋਰ ਰੋਸ਼ਨੀ ਚਾਹੀਦੀ ਹੈ</string>
+    <string name="attr_light_high">ਚਿਹਰੇ \'ਤੇ ਬਹੁਤ ਰੋਸ਼ਨੀ ਹੈ</string>
+    <string name="attr_light_shadow">ਚਿਹਰੇ \'ਤੇ ਬਹੁਤ ਪਰਛਾਵੇਂ ਹਨ</string>
+    <string name="unlock_failed_face_blur">ਚਿਹਰਾ ਬਹੁਤ ਧੁੰਦਲਾ ਹੈ</string>
+    <string name="unlock_failed_face_large">ਚਿਹਰਾ ਬਹੁਤ ਨੇੜੇ ਹੈ</string>
+    <string name="unlock_failed_face_multi">ਬਹੁਤ ਸਾਰੇ ਚਿਹਰੇ ਮਿਲੇ</string>
+    <string name="unlock_failed_face_not_complete">ਸਿਰਫ਼ ਅਧੂਰਾ ਚਿਹਰਾ ਮਿਲਿਆ</string>
+    <string name="unlock_failed_face_small">ਚਿਹਰਾ ਬਹੁਤ ਦੂਰ ਹੈ</string>
 </resources>

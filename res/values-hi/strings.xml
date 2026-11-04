@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"फिर से कोशिश करें"</string>
+    <string name="app_name">फ़ेस अनलॉक सेवा</string>
+    <string name="face_enroll_title">कैमरे के बीच में अपना चेहरा रखें</string>
+    <string name="face_enroll_description">स्थिर रहें और सुनिश्चित करें कि आप अच्छी रोशनी वाली जगह पर हैं</string>
+    <string name="face_try_again_title">आपका चेहरा कैप्चर नहीं हो सका</string>
+    <string name="face_try_again_description">फिर से कोशिश करने के लिए नीचे टैप करें। अगली बार अच्छी रोशनी वाली जगह पर रहें और चेहरा किसी चीज़ से ढका न हो</string>
+    <string name="attr_light_dark">चेहरे पर और रोशनी चाहिए</string>
+    <string name="attr_light_high">चेहरे पर बहुत ज़्यादा रोशनी है</string>
+    <string name="attr_light_shadow">चेहरे पर बहुत ज़्यादा परछाइयां हैं</string>
+    <string name="unlock_failed_face_blur">चेहरा धुंधला है</string>
+    <string name="unlock_failed_face_large">चेहरा बहुत पास है</string>
+    <string name="unlock_failed_face_multi">बहुत सारे चेहरे पहचाने गए</string>
+    <string name="unlock_failed_face_not_complete">केवल आंशिक चेहरा पहचाना गया</string>
+    <string name="unlock_failed_face_small">चेहरा बहुत दूर है</string>
 </resources>

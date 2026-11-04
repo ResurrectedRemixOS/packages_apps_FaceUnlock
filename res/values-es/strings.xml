@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Reintentar"</string>
+    <string name="app_name">Servicio de desbloqueo facial</string>
+    <string name="face_enroll_title">Centra tu cara en la cámara</string>
+    <string name="face_enroll_description">Mantén la posición y asegúrate de estar en un lugar bien iluminado</string>
+    <string name="face_try_again_title">No se pudo capturar tu cara</string>
+    <string name="face_try_again_description">Toca abajo para volver a intentarlo. La próxima vez, asegúrate de estar en un lugar bien iluminado y de que nada tape tu cara</string>
+    <string name="attr_light_dark">La cara necesita más luz</string>
+    <string name="attr_light_high">La cara tiene demasiada luz</string>
+    <string name="attr_light_shadow">La cara tiene demasiadas sombras</string>
+    <string name="unlock_failed_face_blur">La cara está borrosa</string>
+    <string name="unlock_failed_face_large">La cara está demasiado cerca</string>
+    <string name="unlock_failed_face_multi">Se han detectado demasiadas caras</string>
+    <string name="unlock_failed_face_not_complete">Solo se ha detectado parte de la cara</string>
+    <string name="unlock_failed_face_small">La cara está demasiado lejos</string>
 </resources>

@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Նորից փորձել"</string>
+    <string name="app_name">Դեմքով ապակողպման ծառայություն</string>
+    <string name="face_enroll_title">Կենտրոնացրեք դեմքը տեսախցիկում</string>
+    <string name="face_enroll_description">Մնացեք անշարժ և համոզվեք, որ լուսավորված միջավայրում եք</string>
+    <string name="face_try_again_title">Չհաջողվեց նկարահանել ձեր դեմքը</string>
+    <string name="face_try_again_description">Հպեք ներքևում՝ նորից փորձելու համար։ Հաջորդ անգամ համոզվեք, որ լուսավորված միջավայրում եք և ոչինչ չի փակում դեմքը</string>
+    <string name="attr_light_dark">Դեմքին պակաս լույս է անհրաժեշտ</string>
+    <string name="attr_light_high">Դեմքին չափից շատ լույս կա</string>
+    <string name="attr_light_shadow">Դեմքի վրա չափից շատ ստվերներ կան</string>
+    <string name="unlock_failed_face_blur">Դեմքը չափազանց լղոզված է</string>
+    <string name="unlock_failed_face_large">Դեմքը չափազանց մոտ է</string>
+    <string name="unlock_failed_face_multi">Հայտնաբերվել են չափից շատ դեմքեր</string>
+    <string name="unlock_failed_face_not_complete">Հայտնաբերվել է դեմքի միայն մի մաս</string>
+    <string name="unlock_failed_face_small">Դեմքը չափազանց հեռու է</string>
 </resources>

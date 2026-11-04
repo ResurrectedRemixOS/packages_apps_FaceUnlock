@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"पुन्हा प्रयत्न करा"</string>
+    <string name="app_name">चेहरा अनलॉक सेवा</string>
+    <string name="face_enroll_title">कॅमेऱ्यामध्ये तुमचा चेहरा मध्यभागी ठेवा</string>
+    <string name="face_enroll_description">स्थिर राहा आणि तुम्ही चांगल्या प्रकाशात आहात याची खात्री करा</string>
+    <string name="face_try_again_title">तुमचा चेहरा कॅप्चर करता आला नाही</string>
+    <string name="face_try_again_description">पुन्हा प्रयत्न करण्यासाठी खाली टॅप करा. पुढच्या वेळी चांगल्या प्रकाशात रहा आणि चेहरा झाकला जाणार नाही याची काळजी घ्या</string>
+    <string name="attr_light_dark">चेहऱ्यासाठी अधिक प्रकाश हवा</string>
+    <string name="attr_light_high">चेहऱ्यावर खूप प्रकाश आहे</string>
+    <string name="attr_light_shadow">चेहऱ्यावर खूप सावल्या आहेत</string>
+    <string name="unlock_failed_face_blur">चेहरा खूप अस्पष्ट आहे</string>
+    <string name="unlock_failed_face_large">चेहरा खूप जवळ आहे</string>
+    <string name="unlock_failed_face_multi">खूप चेहरे आढळले</string>
+    <string name="unlock_failed_face_not_complete">फक्त अर्धा चेहरा आढळला</string>
+    <string name="unlock_failed_face_small">चेहरा खूप दूर आहे</string>
 </resources>

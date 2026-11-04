@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Zkusit znovu"</string>
+    <string name="app_name">Služba odemknutí obličejem</string>
+    <string name="face_enroll_title">Vystřeďte obličej v kameře</string>
+    <string name="face_enroll_description">Držte se v klidu a ujistěte se, že jste v dobře osvětlené místě</string>
+    <string name="face_try_again_title">Obličej se nepodařilo zachytit</string>
+    <string name="face_try_again_description">Klepnutím níže to zkuste znovu. Příště se ujistěte, že jste na dobře osvětleném místě a nic nezakrývá váš obličej</string>
+    <string name="attr_light_dark">Obličeji je potřeba více světla</string>
+    <string name="attr_light_high">Obličej je příliš osvětlen</string>
+    <string name="attr_light_shadow">Na obličeji jsou příliš silné stíny</string>
+    <string name="unlock_failed_face_blur">Obličej je příliš rozmazaný</string>
+    <string name="unlock_failed_face_large">Obličej je příliš blízko</string>
+    <string name="unlock_failed_face_multi">Zjištěno příliš mnoho obličejů</string>
+    <string name="unlock_failed_face_not_complete">Zjištěn pouze částečný obličej</string>
+    <string name="unlock_failed_face_small">Obličej je příliš daleko</string>
 </resources>

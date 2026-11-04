@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Probeer weer"</string>
+    <string name="app_name">Gesigontsluitingsdiens</string>
+    <string name="face_enroll_title">Sentreer jou gesig in die kamera</string>
+    <string name="face_enroll_description">Hou stil, en maak seker jy is in \'n goed verligte omgewing</string>
+    <string name="face_try_again_title">Kon nie jou gesig vasvang nie</string>
+    <string name="face_try_again_description">Tik hieronder om weer te probeer. Maak die volgende keer seker jy is in \'n goed verligte omgewing en niks bedek jou gesig nie</string>
+    <string name="attr_light_dark">Gesig benodig meer lig</string>
+    <string name="attr_light_high">Gesig het te veel lig</string>
+    <string name="attr_light_shadow">Gesig het te veel skaduwees</string>
+    <string name="unlock_failed_face_blur">Gesig is te vaag</string>
+    <string name="unlock_failed_face_large">Gesig is te naby</string>
+    <string name="unlock_failed_face_multi">Te veel gesigte opgespoor</string>
+    <string name="unlock_failed_face_not_complete">Slegs gedeeltelike gesig opgespoor</string>
+    <string name="unlock_failed_face_small">Gesig is te ver weg</string>
 </resources>

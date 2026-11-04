@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Mēģināt vēlreiz"</string>
+    <string name="app_name">Sejas atbloķēšanas pakalpojums</string>
+    <string name="face_enroll_title">Centrējiet seju kamerā</string>
+    <string name="face_enroll_description">Turiet galvu nekustīgi un pārliecinieties, ka atrodaties labi apgaismotā vietā</string>
+    <string name="face_try_again_title">Neizdevās uztvert seju</string>
+    <string name="face_try_again_description">Pieskarieties zemāk, lai mēģinātu vēlreiz. Nākamreiz pārliecinieties, ka atrodaties labi apgaismotā vietā un nekas neaizsedz seju</string>
+    <string name="attr_light_dark">Sejai nepieciešams vairāk gaismas</string>
+    <string name="attr_light_high">Sejā ir pārāk daudz gaismas</string>
+    <string name="attr_light_shadow">Sejā ir pārāk daudz ēnu</string>
+    <string name="unlock_failed_face_blur">Seja ir pārāk izplūdusi</string>
+    <string name="unlock_failed_face_large">Seja ir pārāk tuvu</string>
+    <string name="unlock_failed_face_multi">Konstatēts pārāk daudz seju</string>
+    <string name="unlock_failed_face_not_complete">Konstatēta tikai daļēja seja</string>
+    <string name="unlock_failed_face_small">Seja ir pārāk tālu</string>
 </resources>

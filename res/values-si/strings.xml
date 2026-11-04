@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"නැවත උත්සාහ කරන්න"</string>
+    <string name="app_name">මුහුණු අගුලු සේවාව</string>
+    <string name="face_enroll_title">කැමරාව මැද මුහුණ තබන්න</string>
+    <string name="face_enroll_description">නිශ්චලව සිටින්න, සහ හොඳින් ආලෝකමත් ස්ථානයක සිටින බවට සහතික වන්න</string>
+    <string name="face_try_again_title">ඔබේ මුහුණ ග්‍රහණය කර ගත නොහැකි විය</string>
+    <string name="face_try_again_description">නැවත උත්සාහ කිරීමට පහතින් තට්ටු කරන්න. ඊළඟ වතාවේ හොඳින් ආලෝකමත් ස්ථානයක සිටින්න, සහ මුහුණ කිසිවක් මගින් වැසී නොමැති බවට සහතික වන්න</string>
+    <string name="attr_light_dark">මුහුණට වැඩි ආලෝකය අවශ්‍යයි</string>
+    <string name="attr_light_high">මුහුණට ආලෝකය වැඩියි</string>
+    <string name="attr_light_shadow">මුහුණට වැඩි සෙවනැලි ඇත</string>
+    <string name="unlock_failed_face_blur">මුහුණ බොඳ වී ඇත</string>
+    <string name="unlock_failed_face_large">මුහුණ කැමරාවට වැඩි ළඟයි</string>
+    <string name="unlock_failed_face_multi">මුහුණු වැඩි ගණනක් හඳුනාගෙන ඇත</string>
+    <string name="unlock_failed_face_not_complete">මුහුණේ කොටසක් පමණක් හඳුනාගෙන ඇත</string>
+    <string name="unlock_failed_face_small">මුහුණ වැඩි දුරින් ඇත</string>
 </resources>

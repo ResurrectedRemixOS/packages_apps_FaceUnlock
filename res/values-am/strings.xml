@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"እንደገና ይሞክሩ"</string>
+    <string name="app_name">የፊት መክፈቻ አገልግሎት</string>
+    <string name="face_enroll_title">ፊትዎን በካሜራው መሃል ያድርጉ</string>
+    <string name="face_enroll_description">ዝም ብለው ይቆዩ፤ በደንብ ብርሃን ባለበት ቦታ መሆንዎን ያረጋግጡ</string>
+    <string name="face_try_again_title">ፊትዎን መያዝ አልተቻለም</string>
+    <string name="face_try_again_description">እንደገና ለመሞከር ከታች ይንኩ። በሚቀጥለው ጊዜ በደንብ ብርሃን ባለበት ቦታ መሆንዎን እና ፊትዎን ምንም እንዳይሸፍነው ያረጋግጡ</string>
+    <string name="attr_light_dark">ፊት ተጨማሪ ብርሃን ያስፈልገዋል</string>
+    <string name="attr_light_high">ፊት ብርሃኑ ከልክ በላይ ነው</string>
+    <string name="attr_light_shadow">ፊት ብዙ ጥላዎች አሉት</string>
+    <string name="unlock_failed_face_blur">ፊት ደብዛዛ ነው</string>
+    <string name="unlock_failed_face_large">ፊት በጣም ቅርብ ነው</string>
+    <string name="unlock_failed_face_multi">ብዙ ፊቶች ተገኝተዋል</string>
+    <string name="unlock_failed_face_not_complete">ከፊል ፊት ብቻ ተገኝቷል</string>
+    <string name="unlock_failed_face_small">ፊት በጣም ሩቅ ነው</string>
 </resources>

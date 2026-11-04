@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"ลองอีกครั้ง"</string>
+    <string name="app_name">บริการปลดล็อกด้วยใบหน้า</string>
+    <string name="face_enroll_title">จัดใบหน้าให้อยู่กลางกล้อง</string>
+    <string name="face_enroll_description">อยู่นิ่ง ๆ และตรวจสอบว่าอยู่ในที่มีแสงสว่างเพียงพอ</string>
+    <string name="face_try_again_title">ไม่สามารถบันทึกใบหน้าของคุณได้</string>
+    <string name="face_try_again_description">แตะด้านล่างเพื่อลองอีกครั้ง คราวหน้าตรวจสอบว่าอยู่ในที่ที่มีแสงสว่างเพียงพอ และไม่มีสิ่งใดบังใบหน้า</string>
+    <string name="attr_light_dark">ใบหน้ามีแสงน้อยเกินไป</string>
+    <string name="attr_light_high">ใบหน้ามีแสงจ้าเกินไป</string>
+    <string name="attr_light_shadow">ใบหน้ามีเงามากเกินไป</string>
+    <string name="unlock_failed_face_blur">ใบหน้าเบลอเกินไป</string>
+    <string name="unlock_failed_face_large">ใบหน้าอยู่ใกล้เกินไป</string>
+    <string name="unlock_failed_face_multi">ตรวจพบใบหน้ามากเกินไป</string>
+    <string name="unlock_failed_face_not_complete">ตรวจพบเพียงบางส่วนของใบหน้า</string>
+    <string name="unlock_failed_face_small">ใบหน้าอยู่ไกลเกินไป</string>
 </resources>

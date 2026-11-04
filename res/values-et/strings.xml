@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Proovi uuesti"</string>
+    <string name="app_name">Näotuvastuse teenus</string>
+    <string name="face_enroll_title">Joonda nägu kaamera keskele</string>
+    <string name="face_enroll_description">Hoia liikumatult ja veendu, et oled hästi valgustatud keskkonnas</string>
+    <string name="face_try_again_title">Näo jäädvustamine ebaõnnestus</string>
+    <string name="face_try_again_description">Proovi uuesti, puudutades allpool. Järgmisel korral veendu, et oled hästi valgustatud keskkonnas ja miski ei kataks su nägu</string>
+    <string name="attr_light_dark">Nägu vajab rohkem valgust</string>
+    <string name="attr_light_high">Nägu on liiga valgustatud</string>
+    <string name="attr_light_shadow">Näol on liiga palju varje</string>
+    <string name="unlock_failed_face_blur">Nägu on liiga udune</string>
+    <string name="unlock_failed_face_large">Nägu on liiga lähedal</string>
+    <string name="unlock_failed_face_multi">Tuvastati liiga palju nägusid</string>
+    <string name="unlock_failed_face_not_complete">Tuvastati ainult osaline nägu</string>
+    <string name="unlock_failed_face_small">Nägu on liiga kaugel</string>
 </resources>

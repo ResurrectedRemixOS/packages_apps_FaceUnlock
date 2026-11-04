@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"വീണ്ടും ശ്രമിക്കുക"</string>
+    <string name="app_name">മുഖം അൺലോക്ക് സേവനം</string>
+    <string name="face_enroll_title">ക്യാമറയുടെ മധ്യത്തിൽ മുഖം വയ്ക്കുക</string>
+    <string name="face_enroll_description">അനങ്ങാതിരിക്കുക, നല്ല വെളിച്ചമുള്ള സ്ഥലത്താണെന്ന് ഉറപ്പാക്കുക</string>
+    <string name="face_try_again_title">മുഖം പകർത്താനായില്ല</string>
+    <string name="face_try_again_description">വീണ്ടും ശ്രമിക്കാൻ താഴെ ടാപ്പ് ചെയ്യുക. അടുത്ത തവണ നല്ല വെളിച്ചമുള്ള സ്ഥലത്താണെന്നും മുഖം മറഞ്ഞിട്ടില്ലെന്നും ഉറപ്പാക്കുക</string>
+    <string name="attr_light_dark">മുഖത്ത് കൂടുതൽ വെളിച്ചം വേണം</string>
+    <string name="attr_light_high">മുഖത്ത് വെളിച്ചം കൂടുതലാണ്</string>
+    <string name="attr_light_shadow">മുഖത്ത് നിഴലുകൾ കൂടുതലാണ്</string>
+    <string name="unlock_failed_face_blur">മുഖം മങ്ങലുള്ളതാണ്</string>
+    <string name="unlock_failed_face_large">മുഖം വളരെ അടുത്താണ്</string>
+    <string name="unlock_failed_face_multi">ഒന്നിലധികം മുഖങ്ങൾ കണ്ടെത്തി</string>
+    <string name="unlock_failed_face_not_complete">മുഖത്തിന്റെ ഭാഗം മാത്രമേ കണ്ടെത്തിയുള്ളൂ</string>
+    <string name="unlock_failed_face_small">മുഖം വളരെ അകലെയാണ്</string>
 </resources>

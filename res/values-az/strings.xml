@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Yenidən cəhd edin"</string>
+    <string name="app_name">Üz kilidi xidməti</string>
+    <string name="face_enroll_title">Üzünüzü kameranın mərkəzinə yerləşdirin</string>
+    <string name="face_enroll_description">Hərəkətsiz durun və yaxşı işıqlandırılmış yerdə olduğunuzdan əmin olun</string>
+    <string name="face_try_again_title">Üzünüz çəkilə bilmədi</string>
+    <string name="face_try_again_description">Yenidən cəhd etmək üçün aşağıya toxunun. Növbəti dəfə yaxşı işıqlandırılmış yerdə olduğunuzdan və üzünüzü heç nə örtmədiyindən əmin olun</string>
+    <string name="attr_light_dark">Üz üçün daha çox işıq lazımdır</string>
+    <string name="attr_light_high">Üzə çox işıq düşür</string>
+    <string name="attr_light_shadow">Üzdə çox kölgə var</string>
+    <string name="unlock_failed_face_blur">Üz çox bulanıqdır</string>
+    <string name="unlock_failed_face_large">Üz çox yaxındır</string>
+    <string name="unlock_failed_face_multi">Çox sayda üz aşkarlandı</string>
+    <string name="unlock_failed_face_not_complete">Yalnız üzün bir hissəsi aşkarlandı</string>
+    <string name="unlock_failed_face_small">Üz çox uzaqdadır</string>
 </resources>

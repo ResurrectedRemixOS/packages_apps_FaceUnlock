@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Bandyti dar kartą"</string>
+    <string name="app_name">Veido atrakinimo paslauga</string>
+    <string name="face_enroll_title">Centruokite veidą kameros lauke</string>
+    <string name="face_enroll_description">Laikykitės ramiai ir įsitikinkite, kad esate gerai apšviestoje vietoje</string>
+    <string name="face_try_again_title">Nepavyko nufotografuoti jūsų veido</string>
+    <string name="face_try_again_description">Bakstelėkite žemiau, kad bandytumėte dar kartą. Kitą kartą įsitikinkite, kad esate gerai apšviestoje vietoje ir niekas neuždengia veido</string>
+    <string name="attr_light_dark">Veidui reikia daugiau šviesos</string>
+    <string name="attr_light_high">Veidas per daug apšviestas</string>
+    <string name="attr_light_shadow">Veide per daug šešėlių</string>
+    <string name="unlock_failed_face_blur">Veidas per daug neryškus</string>
+    <string name="unlock_failed_face_large">Veidas per arti</string>
+    <string name="unlock_failed_face_multi">Aptikta per daug veidų</string>
+    <string name="unlock_failed_face_not_complete">Aptiktas tik dalinis veidas</string>
+    <string name="unlock_failed_face_small">Veidas per toli</string>
 </resources>

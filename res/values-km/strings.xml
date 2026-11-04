@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"ព្យាយាមម្ដងទៀត"</string>
+    <string name="app_name">សេវាកម្មដោះសោតាមមុខ</string>
+    <string name="face_enroll_title">ដាក់មុខរបស់អ្នកឱ្យស្ថិតនៅកណ្ដាលកាមេរ៉ា</string>
+    <string name="face_enroll_description">សូមនៅឱ្យនឹង ហើយត្រូវប្រាកដថានៅកន្លែងមានពន្លឺល្អ</string>
+    <string name="face_try_again_title">មិនអាចថតមុខរបស់អ្នកបានទេ</string>
+    <string name="face_try_again_description">ចុចខាងក្រោមដើម្បីព្យាយាមម្តងទៀត។ លើកក្រោយ សូមប្រាកដថានៅកន្លែងមានពន្លឺល្អ ហើយគ្មានអ្វីបាំងមុខរបស់អ្នក</string>
+    <string name="attr_light_dark">មុខត្រូវការពន្លឺបន្ថែម</string>
+    <string name="attr_light_high">មុខមានពន្លឺច្រើនពេក</string>
+    <string name="attr_light_shadow">មុខមានស្រមោលច្រើនពេក</string>
+    <string name="unlock_failed_face_blur">មុខព្រិលពេក</string>
+    <string name="unlock_failed_face_large">មុខនៅជិតពេក</string>
+    <string name="unlock_failed_face_multi">រកឃើញមុខច្រើនពេក</string>
+    <string name="unlock_failed_face_not_complete">រកឃើញតែផ្នែកមួយនៃមុខប៉ុណ្ណោះ</string>
+    <string name="unlock_failed_face_small">មុខនៅឆ្ងាយពេក</string>
 </resources>

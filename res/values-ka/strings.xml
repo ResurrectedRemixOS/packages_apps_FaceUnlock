@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"ხელახლა ცდა"</string>
+    <string name="app_name">სახის განბლოკვის სერვისი</string>
+    <string name="face_enroll_title">მოათავსეთ სახე კამერის ცენტრში</string>
+    <string name="face_enroll_description">იდექით უძრავად და დარწმუნდით, რომ განათება კარგია</string>
+    <string name="face_try_again_title">სახის აღბეჭდვა ვერ მოხერხდა</string>
+    <string name="face_try_again_description">შეეხეთ ქვემოთ ხელახლა საცდელად. შემდეგ ჯერზე დარწმუნდით, რომ განათება კარგია და არაფერი ფარავს სახეს</string>
+    <string name="attr_light_dark">სახეს მეტი განათება სჭირდება</string>
+    <string name="attr_light_high">სახეზე ზედმეტად ნათელია</string>
+    <string name="attr_light_shadow">სახეზე ბევრი ჩრდილია</string>
+    <string name="unlock_failed_face_blur">სახე ბუნდოვანია</string>
+    <string name="unlock_failed_face_large">სახე ძალიან ახლოსაა</string>
+    <string name="unlock_failed_face_multi">აღმოჩენილია ბევრი სახე</string>
+    <string name="unlock_failed_face_not_complete">აღმოჩენილია მხოლოდ სახის ნაწილი</string>
+    <string name="unlock_failed_face_small">სახე ძალიან შორსაა</string>
 </resources>

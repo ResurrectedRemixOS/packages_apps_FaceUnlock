@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"ລອງໃໝ່"</string>
+    <string name="app_name">ບໍລິການປົດລັອກດ້ວຍໃບໜ້າ</string>
+    <string name="face_enroll_title">ວາງໃບໜ້າຂອງທ່ານໃຫ້ຢູ່ກາງກ້ອງ</string>
+    <string name="face_enroll_description">ກະລຸນາຢູ່ນິ່ງ ແລະ ຢູ່ໃນບ່ອນທີ່ມີແສງສະຫວ່າງພຽງພໍ</string>
+    <string name="face_try_again_title">ບໍ່ສາມາດບັນທຶກໃບໜ້າຂອງທ່ານໄດ້</string>
+    <string name="face_try_again_description">ແຕະດ້ານລຸ່ມເພື່ອລອງອີກຄັ້ງ. ຄັ້ງໜ້າ ກະລຸນາຢູ່ໃນບ່ອນທີ່ມີແສງພຽງພໍ ແລະ ຢ່າໃຫ້ມີສິ່ງໃດບັງໃບໜ້າ</string>
+    <string name="attr_light_dark">ໃບໜ້າຕ້ອງການແສງເພີ່ມຂຶ້ນ</string>
+    <string name="attr_light_high">ໃບໜ້າໄດ້ຮັບແສງຫຼາຍເກີນໄປ</string>
+    <string name="attr_light_shadow">ໃບໜ້າມີເງາຫຼາຍເກີນໄປ</string>
+    <string name="unlock_failed_face_blur">ໃບໜ້າພາບເບລີເກີນໄປ</string>
+    <string name="unlock_failed_face_large">ໃບໜ້າຢູ່ໃກ້ເກີນໄປ</string>
+    <string name="unlock_failed_face_multi">ກວດພົບໃບໜ້າຫຼາຍເກີນໄປ</string>
+    <string name="unlock_failed_face_not_complete">ກວດພົບພຽງບາງສ່ວນຂອງໃບໜ້າ</string>
+    <string name="unlock_failed_face_small">ໃບໜ້າຢູ່ໄກເກີນໄປ</string>
 </resources>

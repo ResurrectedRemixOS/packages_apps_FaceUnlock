@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="btn_try_again">"Обидете се повторно"</string>
+    <string name="app_name">Услуга за отклучување со лице</string>
+    <string name="face_enroll_title">Центрирајте го лицето во камерата</string>
+    <string name="face_enroll_description">Držете se mirno i osiguрајте se deka ste vo dobro osvetlena sredina</string>
+    <string name="face_try_again_title">Не можеше да се сними вашето лице</string>
+    <string name="face_try_again_description">Допрете подолу за да се обидете повторно. Следниот пат осигурајте се дека сте во добро осветлена средина и дека ништо не го прекрива вашето лице</string>
+    <string name="attr_light_dark">На лицето му треба повеќе светлина</string>
+    <string name="attr_light_high">Лицето има премногу светлина</string>
+    <string name="attr_light_shadow">На лицето има премногу сенки</string>
+    <string name="unlock_failed_face_blur">Лицето е премногу замаглено</string>
+    <string name="unlock_failed_face_large">Лицето е премногу блиску</string>
+    <string name="unlock_failed_face_multi">Откриени се премногу лица</string>
+    <string name="unlock_failed_face_not_complete">Откриено е само делумно лице</string>
+    <string name="unlock_failed_face_small">Лицето е премногу далеку</string>
 </resources>
